@@ -4,7 +4,7 @@
 
 # Языки программного обеспечения
 
-<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/9e29bcda-76d9-4b31-a780-baa219a407a3" /> <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/af856a1f-8e83-4956-a395-ec2e33a91e5b" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/c34e26b5-9d50-48ac-af83-7e06b41c5e85" /> <img width="139" height="28" alt="image" src="https://github.com/user-attachments/assets/4cf3ff87-01cf-4f47-a51f-aab33c568d70" />
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/9e29bcda-76d9-4b31-a780-baa219a407a3" /> <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/af856a1f-8e83-4956-a395-ec2e33a91e5b" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/c34e26b5-9d50-48ac-af83-7e06b41c5e85" />
 
 
 
